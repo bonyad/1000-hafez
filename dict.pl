@@ -8,14 +8,24 @@ binmode STDOUT, ":utf8";
 
 use Path::Tiny;
 use YAML;
+use Data::Dumper;
 
-my $file = path('dictionary.yaml')->slurp_utf8;
-my $dict = Load($file);
-#print Dump(sort keys %$dict);
+my $file = path('001.yaml')->slurp_utf8;
+my $dict = [Load($file)];
+say foreach keys %{ $dict->[0]->{kalamat} };
+#print Dumper @dict;
+#foreach my $hash (@{ $dict[0]->{kalamat} })
+#{
+#	foreach my $key (keys %$hash) {
+#		say $key
+#	}
+#}
 
-foreach my $verb (sort farsi keys %$dict) {
-	say "\"$verb\": \"$dict->{$verb}\"";
-};
+
+
+#foreach my $verb (sort farsi keys %$dict) {
+#	say "\"$verb\": \"$dict->{$verb}\"";
+#};
 
 
 sub farsi {
@@ -92,11 +102,4 @@ sub farsi {
 	my $bnum = $fawords{$bword} ? $fawords{$bword} : 44;
 
 	return $anum <=> $bnum;
-
-
-#	say $a . "-> " . $aword;
-#	say $b . "-> " . $bword;
-#	say "----";
-
-
 }
