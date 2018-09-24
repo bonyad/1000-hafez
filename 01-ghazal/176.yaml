@@ -40,7 +40,7 @@ kalamat:
   - خسرو:
   - شیرین:
   - قدحی:
-  - درکش:
+  - درکش: سربکش، بنوش
   - و:
   - سرخوش:
   - تماشا:
@@ -116,8 +116,8 @@ mani:
   1:
   2:
 analyze:
-  bar_manaei:
   nasihat:
   kelid:
+  bar_manaei:
 --- |
 

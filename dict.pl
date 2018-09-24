@@ -108,7 +108,7 @@ sub formated {
 	my $kalamat;
 		my $i;
 		for ( $i = 0; $i < scalar @{$yaml->[0]->{kalamat}}; ++$i )
-		{
+		{ #for my $i (0..scalar @{$yaml->[0]->{kalamat}})
 			my ($key, $value) = %{$yaml->[0]->{kalamat}->[$i]};
 			$kalamat .=
 				$value

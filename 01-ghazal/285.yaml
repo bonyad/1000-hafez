@@ -78,7 +78,7 @@ kalamat:
   - گر:
   - چه:
   - محرمی:
-  - درکش:
+  - درکش: سربکش، بنوش
   - زبان:
   - پرده:
   - نگه:
@@ -140,8 +140,8 @@ mani:
   1:
   2:
 analyze:
+  nasihat:
   bar_manaei:
   kelid:
-  nasihat:
 --- |
 
