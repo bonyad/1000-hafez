@@ -89,6 +89,19 @@ sub formated {
 		? "tazmin:\n$tazmin"
 		: "tazmin:\n";
 
+   	my $talmih;
+	do {
+		foreach ( sort farsi keys %{ $yaml->[0]->{talmih} } )
+		{
+			$talmih .= "  $_: $yaml->[0]->{talmih}->{$_}\n";
+		}
+	} if $yaml->[0]->{talmih};
+	#$talmih =~ s/\n+$//;
+	$output .=
+		$talmih
+		? "talmih:\n$talmih"
+		: "talmih:\n";
+
 
 	my $arabi;
 	if ($yaml->[0]->{arabi})

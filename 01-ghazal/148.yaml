@@ -19,6 +19,7 @@ vazn: مفعول مفاعلن فعولن
 bahr: هزج مسدس اخرب مقبوض محذوف
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - یارم:
@@ -65,8 +66,8 @@ mani:
   1:
   2:
 analyze:
-  kelid:
-  bar_manaei:
   nasihat:
+  bar_manaei:
+  kelid:
 --- |
 

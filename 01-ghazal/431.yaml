@@ -27,6 +27,7 @@ vazn: مفاعیلن مفاعیلن فعولن
 bahr: هزج مسدس محذوف یا وزن دوبیتی
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - لبش:
@@ -115,8 +116,8 @@ mani:
   1:
   2:
 analyze:
-  kelid:
-  bar_manaei:
   nasihat:
+  bar_manaei:
+  kelid:
 --- |
 

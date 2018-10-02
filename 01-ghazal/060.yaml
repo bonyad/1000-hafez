@@ -27,6 +27,7 @@ vazn: مفعول فاعلات مفاعیل فاعلن
 bahr: مضارع مثمن اخرب مکفوف محذوف
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - آن:
@@ -135,8 +136,8 @@ mani:
   1:
   2:
 analyze:
-  bar_manaei:
   kelid:
+  bar_manaei:
   nasihat:
 --- |
 

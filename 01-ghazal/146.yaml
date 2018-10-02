@@ -25,6 +25,7 @@ vazn: مفاعیلن مفاعیلن مفاعیلن مفاعیلن
 bahr: هزج مثمن سالم
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - صبا: نام بادی که از سمت مشرق می‌وزد، مجاز از پیام‌آور میان عاشق و معشوق
@@ -132,8 +133,8 @@ mani:
   1:
   2:
 analyze:
+  nasihat:
   bar_manaei:
   kelid:
-  nasihat:
 --- |
 

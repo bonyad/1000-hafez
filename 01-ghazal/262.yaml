@@ -23,6 +23,7 @@ vazn: فعلاتن مفاعلن فعلن
 bahr: خفیف مسدس مخبون
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - حال:
@@ -92,8 +93,8 @@ mani:
   1:
   2:
 analyze:
+  nasihat:
   bar_manaei:
   kelid:
-  nasihat:
 --- |
 

@@ -21,6 +21,7 @@ vazn: مفاعلن فعلاتن مفاعلن فعلن
 bahr: مجتث مثمن مخبون محذوف
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - بنفشه:
@@ -89,8 +90,8 @@ mani:
   1:
   2:
 analyze:
-  kelid:
   bar_manaei:
+  kelid:
   nasihat:
 --- |
 

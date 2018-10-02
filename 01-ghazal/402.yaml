@@ -25,6 +25,7 @@ vazn: فاعلاتن فاعلاتن فاعلاتن فاعلن
 bahr: رمل مثمن محذوف
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - نکته‌ای:
@@ -127,8 +128,8 @@ mani:
   1:
   2:
 analyze:
-  nasihat:
   bar_manaei:
   kelid:
+  nasihat:
 --- |
 

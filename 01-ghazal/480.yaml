@@ -23,6 +23,7 @@ vazn: فعلاتن فعلاتن فعلاتن فعلن
 bahr: رمل مثمن مخبون محذوف
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - ای:
@@ -109,8 +110,8 @@ mani:
   1:
   2:
 analyze:
-  bar_manaei:
-  kelid:
   nasihat:
+  kelid:
+  bar_manaei:
 --- |
 

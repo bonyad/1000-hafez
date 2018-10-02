@@ -25,6 +25,7 @@ vazn: مفعول مفاعیلن مفعول مفاعیلن
 bahr: هزج مثمن اخرب
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - می:
@@ -121,8 +122,8 @@ mani:
   1:
   2:
 analyze:
-  nasihat:
-  kelid:
   bar_manaei:
+  kelid:
+  nasihat:
 --- |
 

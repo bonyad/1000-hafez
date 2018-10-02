@@ -23,6 +23,7 @@ vazn: فعلاتن مفاعلن فعلن
 bahr: خفیف مسدس مخبون
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - درد:
@@ -82,8 +83,8 @@ mani:
   1:
   2:
 analyze:
-  bar_manaei:
   kelid:
+  bar_manaei:
   nasihat:
 --- |
 

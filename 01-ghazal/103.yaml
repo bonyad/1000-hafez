@@ -21,6 +21,7 @@ vazn: فاعلاتن فاعلاتن فاعلن
 bahr: رمل مسدس محذوف یا وزن مثنوی
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - روز:
@@ -78,8 +79,8 @@ mani:
   1:
   2:
 analyze:
-  kelid:
   bar_manaei:
+  kelid:
   nasihat:
 --- |
 

@@ -35,6 +35,7 @@ vazn: مفاعیلن مفاعیلن مفاعیلن مفاعیلن
 bahr: هزج مثمن سالم
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - سحر:
@@ -198,8 +199,8 @@ mani:
   1:
   2:
 analyze:
-  nasihat:
-  kelid:
   bar_manaei:
+  kelid:
+  nasihat:
 --- |
 

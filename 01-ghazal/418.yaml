@@ -23,6 +23,7 @@ vazn: مستفعلن فع مستفعلن فع
 bahr: متقارب مثمن اثلم
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - گر:
@@ -95,8 +96,8 @@ mani:
   1:
   2:
 analyze:
-  kelid:
-  bar_manaei:
   nasihat:
+  bar_manaei:
+  kelid:
 --- |
 

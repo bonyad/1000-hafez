@@ -27,6 +27,7 @@ vazn: مفتعلن مفتعلن فاعلن
 bahr: سریع مطوی مکشوف
 esteghbal:
 tazmin:
+talmih:
 arabi:
 kalamat:
   - هاتفی:
@@ -119,8 +120,8 @@ mani:
   1:
   2:
 analyze:
-  kelid:
-  bar_manaei:
   nasihat:
+  bar_manaei:
+  kelid:
 --- |
 
