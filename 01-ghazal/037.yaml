@@ -124,7 +124,7 @@ kalamat:
   - نگشادست:
   - مجو:
   - درستی:
-  - عهد:
+  - عهد: زمان، دوره
   - نهاد:
   - عجوز:
   - عروس:
@@ -153,8 +153,8 @@ mani:
   1:
   2:
 analyze:
-  nasihat:
-  kelid:
   bar_manaei:
+  kelid:
+  nasihat:
 --- |
 

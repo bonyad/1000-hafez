@@ -36,7 +36,7 @@ kalamat:
   - دامنش:
   - آورم:
   - به:
-  - کف:
+  - کف: پنجه، دست
   - گر:
   - بکشم:
   - زهی:
@@ -146,8 +146,8 @@ mani:
   1:
   2:
 analyze:
-  nasihat:
-  kelid:
   bar_manaei:
+  kelid:
+  nasihat:
 --- |
 

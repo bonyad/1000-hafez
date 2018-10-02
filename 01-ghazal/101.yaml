@@ -112,7 +112,7 @@ kalamat:
   - بشد:
   - جام:
   - می:
-  - کف:
+  - کف: پنجه، دست
   - ننهاد:
   - بیا:
   - زمانی:
@@ -144,8 +144,8 @@ mani:
   1:
   2:
 analyze:
-  nasihat:
-  bar_manaei:
   kelid:
+  bar_manaei:
+  nasihat:
 --- |
 

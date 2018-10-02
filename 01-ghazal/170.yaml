@@ -55,7 +55,7 @@ kalamat:
   - عاقل:
   - فرزانه:
   - شاهد:
-  - عهد:
+  - عهد: زمان، دوره
   - شباب: جوانی
   - آمده:
   - بودش:
@@ -118,8 +118,8 @@ mani:
   1:
   2:
 analyze:
-  kelid:
-  bar_manaei:
   nasihat:
+  bar_manaei:
+  kelid:
 --- |
 

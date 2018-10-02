@@ -76,7 +76,7 @@ kalamat:
   - ندیم:
   - شاه:
   - ماند:
-  - کف:
+  - کف: پنجه، دست
   - ایاغ:
   - شب:
   - ظلمت:
@@ -120,8 +120,8 @@ mani:
   1:
   2:
 analyze:
+  nasihat:
   kelid:
   bar_manaei:
-  nasihat:
 --- |
 
