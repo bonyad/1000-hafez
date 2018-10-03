@@ -155,7 +155,7 @@ sub formated {
 
 
 	my $analyze;
-		foreach ( sort farsi keys %{ $yaml->[0]->{analyze} } )
+		foreach ( sort keys %{ $yaml->[0]->{analyze} } )
 		{
 			$analyze .=
 				$yaml->[0]->{analyze}->{$_}
