@@ -121,7 +121,7 @@ sub formated {
 	my $kalamat;
 		my $i;
 		for ( $i = 0; $i < scalar @{$yaml->[0]->{kalamat}}; ++$i )
-		{ #for my $i (0..scalar @{$yaml->[0]->{kalamat}})
+		{		#perlish way: foreach my $i (0..scalar @{$yaml->[0]->{kalamat}})
 			my ($key, $value) = %{$yaml->[0]->{kalamat}->[$i]};
 			$kalamat .=
 				$value
@@ -143,7 +143,7 @@ sub formated {
 
 
 	my $mani;
-		foreach ( sort keys %{ $yaml->[0]->{mani} } )
+		foreach ( sort {$a <=> $b} keys %{ $yaml->[0]->{mani} } )
 		{
 			$mani .=
 				$yaml->[0]->{mani}->{$_}
